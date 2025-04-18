@@ -1,0 +1,22 @@
+[Title]
+Your Title
+-------
+[GITUSER]
+GitHub username
+-------
+[Repository]
+Repository Name
+-------
+[filename]
+file name in the repo that you want to download
+-------
+[outfilePath]
+Your path where it should be saved
+-------
+
+
+
+This is what the GIP.var file should look like. All [Settings] can be arranged differently, 
+but it is important that the settings info is directly below it.
+
+You can leave a comment anywhere except directly under one of the [settings] parts
