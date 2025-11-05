@@ -1,3 +1,5 @@
+2025.3
+https://github.com/MCreator/MCreator/releases/download/2025.3.44519/MCreator.2025.3.Windows.64bit.zip
 2025.2
 https://github.com/MCreator/MCreator/releases/download/2025.2.26612/MCreator.2025.2.Windows.64bit.zip
 2025.1
@@ -19,4 +21,5 @@ https://github.com/MCreator/MCreator/releases/download/2023.2.24119/MCreator.202
 2023.1
 https://github.com/MCreator/MCreator/releases/download/2023.1.10610/MCreator.2023.1.Windows.64bit.zip
 2022.4
+
 https://github.com/MCreator/MCreator/releases/download/2022.4.52117/MCreator.EAP.2022.4.b52117.Windows.64bit.zip
